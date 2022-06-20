@@ -1,0 +1,1 @@
+Las respuestas no están estandarizadas, ya que cuando la autenticación es exitosa devuelve un string y en caso contrario devuelve un objeto json, lo cual dificulta la validación de los casos.

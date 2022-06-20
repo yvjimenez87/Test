@@ -1,0 +1,1 @@
+Para una mejor utilización de los selectores de los componentes HTML se recomendaría utilizar atributos para cypress. De esta manera si la estructura de la página cambia los test no fallarían.
